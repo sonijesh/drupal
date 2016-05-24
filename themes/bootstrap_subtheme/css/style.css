@@ -1,0 +1,20 @@
+/**
+ * Place your custom styles here.
+ */
+
+
+
+ /*Admin Backend*/
+ #admin-menu{z-index: 9999;}
+ 
+ /*Navigation*/
+  .navbar-nav i { margin-right : 5px; } 
+ 
+ /*Social Media*/
+  .social-icon p { margin: 0; }
+  .social-icon p a{ margin-left: 5px; font-size: 25px; color:#fff; }
+ 
+ /*Footer*/
+ footer{ margin-top: 20px; padding: 20px; background-color: #222; color: #fff; }
+ footer a{ color: #fff; }
+ 

@@ -1,0 +1,4 @@
+name = "My Block Module"
+description ="Creates a custom block"
+core ="7.x"
+
